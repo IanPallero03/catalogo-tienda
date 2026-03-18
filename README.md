@@ -62,6 +62,18 @@ Pensada como una solución simple y adaptable para catálogos digitales o peque�
 
 ---
 
+💡 Objetivo del proyecto
+
+Este proyecto forma parte de mi portfolio como desarrollador frontend, con el objetivo de construir aplicaciones reales, funcionales y escalables.
+
+📬 Contacto
+
+Si tenés feedback, sugerencias o querés contactarme:
+
+- LinkedIn: https://www.linkedin.com/in/ian-pallero-489900258/
+
+- GitHub: https://github.com/IanPallero03
+
 ## 📦 Instalación y uso
 
 ```bash
@@ -77,14 +89,3 @@ npm install
 # Ejecutar en desarrollo
 npm run dev
 
-💡 Objetivo del proyecto
-
-Este proyecto forma parte de mi portfolio como desarrollador frontend, con el objetivo de construir aplicaciones reales, funcionales y escalables.
-
-📬 Contacto
-
-Si tenés feedback, sugerencias o querés contactarme:
-
-- LinkedIn: https://www.linkedin.com/in/ian-pallero-489900258/
-
-- GitHub: https://github.com/IanPallero03
