@@ -62,11 +62,11 @@ Pensada como una solución simple y adaptable para catálogos digitales o peque�
 
 ---
 
-💡 Objetivo del proyecto
+##💡 Objetivo del proyecto
 
 Este proyecto forma parte de mi portfolio como desarrollador frontend, con el objetivo de construir aplicaciones reales, funcionales y escalables.
 
-📬 Contacto
+##📬 Contacto
 
 Si tenés feedback, sugerencias o querés contactarme:
 
